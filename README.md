@@ -1,218 +1,150 @@
+<!-- PREMIUM BACKEND ENGINEER GITHUB PROFILE README -->
+
+<!-- HERO HEADER -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=Bharath%20Akuleti&fontSize=42&fontColor=c9d1d9&fontAlignY=42&desc=Python%20Backend%20Engineer&descAlignY=62&descSize=18&descColor=8b949e"
-  />
-</p>
-
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;FastAPI+%7C+Django+%7C+AWS;REST+API+%26+Microservices+Architecture;PostgreSQL+Optimization+%26+Cloud+Workflows"
-  />
-</h3>
-
-<p align="center">
-  <a href="https://github.com/Bharath-developer24">
-    <img src="https://komarev.com/ghpvc/?username=Bharath-developer24&label=Profile%20Views&color=30363d&style=flat" />
-  </a>
-
-  <a href="https://linkedin.com/in/akuleti-bharath">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:akuletibharath@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-161B22?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-Python Backend Developer with hands-on experience building scalable REST APIs, cloud-native backend systems, and AWS serverless applications.
-
-Experienced in:
-- FastAPI & Django REST Framework
-- PostgreSQL optimization
-- AWS Lambda & EventBridge
-- Microservices architecture
-- Event-driven systems
-- ERP & E-commerce backend platforms
-
-Focused on building production-ready backend systems with clean architecture and scalable workflows.
-
----
-
-# ⚡ Tech Stack
-
-## 🚀 Backend Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20"/>
-  <img src="https://img.shields.io/badge/Django_REST_Framework-0d1117?style=for-the-badge&logo=django&logoColor=red"/>
-  <img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge"/>
-</p>
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192"/>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-</p>
-
-## ☁️ AWS & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/AWS_Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/API_Gateway-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EventBridge-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Amazon_S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=569A31"/>
-</p>
-
-## 🔐 Authentication & Architecture
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Serverless-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Event_Driven-0d1117?style=for-the-badge"/>
-</p>
-
-## 🛠️ Tools & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
-  <img src="https://img.shields.io/badge/Pydantic-0d1117?style=for-the-badge&logo=pydantic&logoColor=E92063"/>
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 Order Management Backend System
-
-Scalable backend platform built using FastAPI and PostgreSQL for handling orders, payments, inventory, and authentication workflows.
-
-### Features
-- JWT Authentication
-- Inventory stock validation
-- Bulk order APIs
-- Payment workflows
-- SQLAlchemy ORM relationships
-- Pagination & relational APIs
-
-### Tech Stack
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy ORM` `JWT` `Pydantic`
-
----
-
-## 🏢 Buymore ERP Platform
-
-Built cloud-native ERP backend systems with AWS serverless architecture for finance, warehouse, and operational workflows.
-
-### Features
-- AWS Lambda microservices
-- API Gateway REST APIs
-- EventBridge automation
-- PostgreSQL optimization
-- ERP workflow automation
-
-### Tech Stack
-`Python` `AWS Lambda` `API Gateway` `PostgreSQL` `EventBridge` `S3`
-
----
-
-## 📊 Buymore Analytics ERP
-
-Developed backend analytics services and workflow automation systems with event-driven architecture.
-
-### Features
-- JWT-secured APIs
-- Cloud-native backend systems
-- AWS S3 file handling
-- Event-driven workflows
-
-### Tech Stack
-`Python` `REST APIs` `AWS Lambda` `PostgreSQL` `JWT`
-
----
-
-## 🍔 Food Application & Restaurant Management System
-
-Backend-driven restaurant management system with Django REST Framework and MySQL integration.
-
-### Features
-- CRUD APIs
-- Restaurant & food management
-- Modular backend architecture
-
-### Tech Stack
-`Python` `Django` `DRF` `MySQL`
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharath-developer24&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-developer24&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Backend+Engineer;FastAPI+Developer;AWS+Serverless+Engineer;REST+API+Specialist;PostgreSQL+Developer;Microservices+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-developer24&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave-dark.svg" alt="wave banner" />
 </p>
+
+<h1 align="center">👋 Hi, I'm Bharath Akuleti</h1>
+<h3 align="center">Premium Python Backend Engineer | Cloud-Native Systems | Scalable Architectures</h3>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🚀 About Me
+- 🔹 Building **scalable backend systems** with Python  
+- 🔹 Expertise in **FastAPI & Django** for modern backend development  
+- 🔹 Architecting **cloud-native applications** with AWS Lambda & EventBridge  
+- 🔹 Skilled in **PostgreSQL optimization** for high-performance queries  
+- 🔹 Experience in **ERP & E-commerce platforms**  
+- 🔹 Designing **event-driven architectures** and secure **JWT authentication systems**  
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-000?style=for-the-badge&logo=django)
+
+### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+
+### 🔹 AWS & Cloud
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-000?style=for-the-badge&logo=awslambda)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-000?style=for-the-badge&logo=amazonapigateway)
+![EventBridge](https://img.shields.io/badge/EventBridge-000?style=for-the-badge&logo=amazonaws)
+![S3](https://img.shields.io/badge/AWS%20S3-000?style=for-the-badge&logo=amazons3)
+
+### 🔹 Authentication
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens)
+![Pydantic](https://img.shields.io/badge/Pydantic-000?style=for-the-badge&logo=python)
+
+### 🔹 Architecture
+![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge&logo=microgenetics)
+![Serverless](https://img.shields.io/badge/Serverless-000?style=for-the-badge&logo=serverless)
+
+### 🔹 Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium)
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Order Management Backend System
+- Scalable backend APIs with **FastAPI & PostgreSQL**
+- JWT Authentication & secure workflows
+- Payment & inventory management APIs
+- Pagination & relational APIs with SQLAlchemy & Pydantic  
+
+**Tech:** ![Python](https://img.shields.io/badge/Python-000?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+
+---
+
+### 🔹 Buymore ERP Platform
+- AWS serverless microservices  
+- REST APIs via API Gateway  
+- EventBridge automation  
+- ERP finance & warehouse workflows  
+
+**Tech:** ![Python](https://img.shields.io/badge/Python-000?logo=python) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-000?logo=awslambda) ![EventBridge](https://img.shields.io/badge/EventBridge-000?logo=amazonaws)
+
+---
+
+### 🔹 Buymore Analytics ERP
+- Cloud-native backend services  
+- JWT-secured REST APIs  
+- AWS S3 file handling pipelines  
+- Event-driven workflows  
+
+**Tech:** ![Python](https://img.shields.io/badge/Python-000?logo=python) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-000?logo=awslambda) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+
+---
+
+### 🔹 Food Application & Restaurant Management System
+- CRUD APIs with Django REST Framework  
+- Modular backend workflows  
+- MySQL database integration  
+
+**Tech:** ![Python](https://img.shields.io/badge/Python-000?logo=python) ![Django](https://img.shields.io/badge/Django-000?logo=django) ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bharath-developer24&theme=onedark&no-frame=true&row=1&column=7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharath-developer24&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-developer24&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-developer24&layout=compact&theme=radical" />
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-developer24&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-developer24&theme=tokyonight" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://linkedin.com/in/akuleti-bharath">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:akuletibharath@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Bharath-developer24">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharath-developer24&theme=darkhub&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
+## 👀 Visitor Counter
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bharath-developer24/Bharath-developer24/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=Bharath-developer24&style=for-the-badge&color=000000" />
 </p>
 
 ---
 
-<h3 align="center">
-💻 Building scalable backend systems with Python, FastAPI & AWS
-</h3>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/akuleti-bharath"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Bharath-developer24"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:akuletibharath@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharath-developer24/Bharath-developer24/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🔚 Footer
+<p align="center">
+  <b>Crafting Scalable Backend Systems | Cloud-Native Architectures | Modern Python Engineering</b>
+</p>
