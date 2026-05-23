@@ -12,10 +12,6 @@ SECTION A — PREMIUM HERO HEADER
 
 ---
 
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION B — ABOUT ME
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
-
 ## 👨‍💻 About Me
 
 - Backend Engineer specializing in **scalable backend systems**  
@@ -27,62 +23,70 @@ SECTION B — ABOUT ME
 
 ---
 
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION C — TECH STACK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
-
 ## ⚙️ Tech Stack
 
 **Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **AWS & Cloud**  
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)  
-![API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![EventBridge](https://img.shields.io/badge/AWS%20EventBridge-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) ![API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white) ![EventBridge](https://img.shields.io/badge/AWS%20EventBridge-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 **Authentication**  
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 **Architecture**  
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=serverless&logoColor=white)  
-![Serverless](https://img.shields.io/badge/Serverless-FF4F00?style=for-the-badge&logo=serverless&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=serverless&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-FF4F00?style=for-the-badge&logo=serverless&logoColor=white)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
-
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION D — FEATURED PROJECTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Order Management Backend System** | Scalable backend APIs with JWT authentication, payment workflows, inventory management, pagination | ![Python](...) ![FastAPI](...) ![PostgreSQL](...) ![SQLAlchemy](...) ![JWT](...) |
-| **Buymore ERP Platform** | AWS serverless microservices, API Gateway REST APIs, EventBridge automation, ERP finance workflows | ![Python](...) ![AWS Lambda](...) ![API Gateway](...) ![PostgreSQL](...) ![EventBridge](...) |
-| **Buymore Analytics ERP** | Cloud-native backend services, JWT-secured APIs, AWS S3 pipelines, event-driven workflows | ![Python](...) ![AWS Lambda](...) ![PostgreSQL](...) ![JWT](...) ![S3](...) |
-| **Food Application & Restaurant Management System** | CRUD APIs with Django REST Framework, modular workflows, MySQL integration | ![Python](...) ![Django](...) ![DRF](...) ![MySQL](...) |
+### 📦 Order Management Backend System
+- Built scalable backend APIs using **FastAPI** and **PostgreSQL**  
+- Implemented **JWT Authentication** for secure workflows  
+- Developed **payment workflows** and **inventory management APIs**  
+- Used **SQLAlchemy ORM** and **Pydantic validation**  
+- Added **pagination** and relational APIs  
+
+**Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, JWT, Pydantic  
 
 ---
 
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION E — GITHUB ANALYTICS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+### 🏢 Buymore ERP Platform
+- Designed **AWS serverless microservices**  
+- Developed **REST APIs** with **API Gateway**  
+- Implemented **EventBridge automation** for ERP workflows  
+- Optimized **PostgreSQL queries** for performance  
+- Worked on **finance and warehouse modules**  
+
+**Tech:** Python, AWS Lambda, API Gateway, PostgreSQL, EventBridge, S3  
+
+---
+
+### 📊 Buymore Analytics ERP
+- Built **cloud-native backend services**  
+- Developed **JWT-secured REST APIs**  
+- Implemented **AWS S3 file handling pipelines**  
+- Designed **event-driven backend workflows**  
+
+**Tech:** Python, REST APIs, AWS Lambda, PostgreSQL, JWT  
+
+---
+
+### 🍴 Food Application & Restaurant Management System
+- Developed **CRUD APIs** using **Django REST Framework**  
+- Built **modular backend workflows**  
+- Integrated **MySQL database** for persistence  
+
+**Tech:** Python, Django, DRF, MySQL  
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -98,10 +102,6 @@ SECTION E — GITHUB ANALYTICS
 
 ---
 
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION F — GITHUB TROPHIES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -110,19 +110,13 @@ SECTION F — GITHUB TROPHIES
 
 ---
 
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION G — VISITOR COUNTER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+## 👀 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bharath-developer24&style=for-the-badge&color=blue" />
 </p>
 
 ---
-
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION H — CONNECT WITH ME
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
 ## 🔗 Connect With Me
 
@@ -134,19 +128,13 @@ SECTION H — CONNECT WITH ME
 
 ---
 
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION I — CONTRIBUTION SNAKE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Bharath-developer24/Bharath-developer24/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION J — FOOTER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
 <p align="center">
   <b>Backend Engineer • Building Scalable Cloud-Native Systems</b>
