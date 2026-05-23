@@ -37,7 +37,7 @@ I am a **Python Backend Developer** with 1+ year of experience building scalable
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-developer24&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-developer24&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -90,7 +90,9 @@ Full backend CRUD APIs with Django REST Framework.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Bharath-developer24/Bharath-developer24/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharath-developer24/Bharath-developer24/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
 
 ---
 
