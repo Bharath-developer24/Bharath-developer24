@@ -1,29 +1,24 @@
-# 👋 Hi, I'm Bharath Akuleti
+# 👨‍💻 Bharath Akuleti — Python Backend Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;AWS+Serverless+Engineer;FastAPI+%26+Django+Specialist;REST+API+Architect;Microservices+%26+Cloud+Native+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=header&text=Bharath%20Akuleti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;AWS+Serverless+Engineer;FastAPI+%26+Django+Specialist;REST+API+Architect;Microservices+%26+Cloud+Native+Systems" />
 </p>
-
----
-
-## 🌐 Portfolio Overview
-
-Welcome to my professional portfolio! I am a **Python Backend Developer** with 1+ year of experience in building **scalable, secure, and cloud-native systems**.  
-I specialize in **FastAPI, Django, AWS Serverless, REST APIs, and PostgreSQL optimization**. My work spans ERP platforms, e-commerce systems, and analytics backends.
 
 ---
 
 ## 🚀 About Me
 
+I am a **Python Backend Developer** with 1+ year of experience building scalable, secure, and cloud‑native systems. Based in Bangalore, India, I specialize in **FastAPI, Django, AWS Serverless, and REST APIs**. My work spans ERP platforms, e‑commerce systems, and analytics backends, with a strong focus on **PostgreSQL optimization** and **event‑driven architectures**.
+
 - ⚡ Backend automation workflows  
 - 🔗 API design & integration  
-- ☁️ Cloud-native & serverless services  
+- ☁️ Cloud‑native & serverless services  
 - 📊 Data processing pipelines  
-- 🔄 Event-driven system design  
+- 🔄 Event‑driven system design  
 
 ---
 
@@ -99,8 +94,6 @@ Full backend CRUD APIs with Django REST Framework.
 
 ---
 
-## 🎨 Portfolio Design Elements
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF4F00&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" />
 </p>
