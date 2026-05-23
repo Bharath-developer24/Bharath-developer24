@@ -1,78 +1,94 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bharath%20Akuleti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=18"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=Bharath%20Akuleti&fontSize=42&fontColor=c9d1d9&fontAlignY=42&desc=Python%20Backend%20Engineer&descAlignY=62&descSize=18&descColor=8b949e"
+  />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+Engineer;AWS+Serverless+Developer;REST+API+Specialist;PostgreSQL+Developer;Microservices+Enthusiast" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;FastAPI+%7C+Django+%7C+AWS;REST+API+%26+Microservices+Architecture;PostgreSQL+Optimization+%26+Cloud+Workflows"
+  />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharath-developer24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/Bharath-developer24">
+    <img src="https://komarev.com/ghpvc/?username=Bharath-developer24&label=Profile%20Views&color=30363d&style=flat" />
+  </a>
+
+  <a href="https://linkedin.com/in/akuleti-bharath">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:akuletibharath@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-161B22?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🚀 Python Backend Developer with hands-on experience building scalable backend systems, REST APIs, and cloud-native applications using AWS serverless architecture.
+Python Backend Developer with hands-on experience building scalable REST APIs, cloud-native backend systems, and AWS serverless applications.
 
-💡 Passionate about:
-- Designing scalable REST APIs
-- Building event-driven backend systems
-- Backend automation workflows
-- PostgreSQL query optimization
-- Cloud-native microservices
-- ERP & E-commerce backend systems
+Experienced in:
+- FastAPI & Django REST Framework
+- PostgreSQL optimization
+- AWS Lambda & EventBridge
+- Microservices architecture
+- Event-driven systems
+- ERP & E-commerce backend platforms
+
+Focused on building production-ready backend systems with clean architecture and scalable workflows.
 
 ---
 
 # ⚡ Tech Stack
 
-## 🚀 Backend
+## 🚀 Backend Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-0d1117?style=for-the-badge&logo=django&logoColor=red"/>
+  <img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge"/>
 </p>
 
 ## 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 </p>
 
 ## ☁️ AWS & Cloud
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/API_Gateway-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EventBridge-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=569A31"/>
 </p>
 
 ## 🔐 Authentication & Architecture
 
 <p>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Microservices-0078D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Serverless-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Event_Driven-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Serverless-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Event_Driven-0d1117?style=for-the-badge"/>
 </p>
 
 ## 🛠️ Tools & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
+  <img src="https://img.shields.io/badge/Pydantic-0d1117?style=for-the-badge&logo=pydantic&logoColor=E92063"/>
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
 </p>
 
 ---
@@ -81,11 +97,15 @@
 
 ## 🛒 Order Management Backend System
 
-✔️ Built scalable backend workflows using FastAPI and PostgreSQL  
-✔️ JWT Authentication & secure APIs  
-✔️ Inventory management & payment workflows  
-✔️ Bulk order APIs with stock validation  
-✔️ SQLAlchemy ORM relationships & Pydantic validation  
+Scalable backend platform built using FastAPI and PostgreSQL for handling orders, payments, inventory, and authentication workflows.
+
+### Features
+- JWT Authentication
+- Inventory stock validation
+- Bulk order APIs
+- Payment workflows
+- SQLAlchemy ORM relationships
+- Pagination & relational APIs
 
 ### Tech Stack
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy ORM` `JWT` `Pydantic`
@@ -94,11 +114,14 @@
 
 ## 🏢 Buymore ERP Platform
 
-✔️ Developed AWS serverless microservices  
-✔️ ERP workflow automation  
-✔️ REST APIs using API Gateway  
-✔️ PostgreSQL optimization  
-✔️ EventBridge automation systems  
+Built cloud-native ERP backend systems with AWS serverless architecture for finance, warehouse, and operational workflows.
+
+### Features
+- AWS Lambda microservices
+- API Gateway REST APIs
+- EventBridge automation
+- PostgreSQL optimization
+- ERP workflow automation
 
 ### Tech Stack
 `Python` `AWS Lambda` `API Gateway` `PostgreSQL` `EventBridge` `S3`
@@ -107,10 +130,13 @@
 
 ## 📊 Buymore Analytics ERP
 
-✔️ Built cloud-native backend services  
-✔️ JWT-secured APIs  
-✔️ AWS S3 file handling workflows  
-✔️ Event-driven backend architecture  
+Developed backend analytics services and workflow automation systems with event-driven architecture.
+
+### Features
+- JWT-secured APIs
+- Cloud-native backend systems
+- AWS S3 file handling
+- Event-driven workflows
 
 ### Tech Stack
 `Python` `REST APIs` `AWS Lambda` `PostgreSQL` `JWT`
@@ -119,9 +145,12 @@
 
 ## 🍔 Food Application & Restaurant Management System
 
-✔️ Backend CRUD APIs using Django REST Framework  
-✔️ MySQL integration  
-✔️ Modular backend architecture  
+Backend-driven restaurant management system with Django REST Framework and MySQL integration.
+
+### Features
+- CRUD APIs
+- Restaurant & food management
+- Modular backend architecture
 
 ### Tech Stack
 `Python` `Django` `DRF` `MySQL`
@@ -131,13 +160,13 @@
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharath-developer24&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-developer24&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharath-developer24&show_icons=true&theme=github_dark&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-developer24&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-developer24&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-developer24&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -153,7 +182,7 @@
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-developer24&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-developer24&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -166,11 +195,11 @@
   </a>
 
   <a href="mailto:akuletibharath@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Bharath-developer24">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -185,5 +214,5 @@
 ---
 
 <h3 align="center">
-⭐ Building scalable backend systems with Python & AWS
+💻 Building scalable backend systems with Python, FastAPI & AWS
 </h3>
