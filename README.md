@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bharath Akuleti
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;AWS+Serverless+Developer;FastAPI+%26+Django+Engineer;REST+API+Specialist;Microservices+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;AWS+Serverless+Engineer;FastAPI+%26+Django+Specialist;REST+API+Architect;Microservices+%26+Cloud+Native+Systems" />
 </p>
 
 <p align="center">
@@ -10,53 +10,32 @@
 
 ---
 
-## 🚀 About Me
+## 🌐 Portfolio Overview
 
-I am a **Python Backend Developer** with 1+ year of experience building scalable, secure, and cloud‑native systems. Based in Bangalore, India, I specialize in **FastAPI, Django, AWS Serverless, and REST APIs**. My work spans ERP platforms, e‑commerce systems, and analytics backends, with a strong focus on **PostgreSQL optimization** and **event‑driven architectures**.
+Welcome to my professional portfolio! I am a **Python Backend Developer** with 1+ year of experience in building **scalable, secure, and cloud-native systems**.  
+I specialize in **FastAPI, Django, AWS Serverless, REST APIs, and PostgreSQL optimization**. My work spans ERP platforms, e-commerce systems, and analytics backends.
+
+---
+
+## 🚀 About Me
 
 - ⚡ Backend automation workflows  
 - 🔗 API design & integration  
-- ☁️ Cloud‑native & serverless services  
+- ☁️ Cloud-native & serverless services  
 - 📊 Data processing pipelines  
-- 🔄 Event‑driven system design  
+- 🔄 Event-driven system design  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & AWS
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Authentication
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Architecture
-![Microservices](https://img.shields.io/badge/Microservices-00A8E8?style=for-the-badge&logo=cloud&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FF4F00?style=for-the-badge&logo=serverless&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,mongodb,aws,git,postman" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bharath-developer24&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -117,3 +96,11 @@ Full backend CRUD APIs with Django REST Framework.
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Bharath-developer24/Bharath-developer24/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎨 Portfolio Design Elements
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF4F00&height=120&section=footer" />
+</p>
