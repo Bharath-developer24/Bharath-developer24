@@ -72,29 +72,29 @@ I am a **Python Backend Developer** with 1+ year of experience building scalable
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-### 🔹 Order Management Backend System (Jan 2026 – Apr 2026)
+### 🔹 Order Management Backend System
 Scalable backend for products, orders, payments, and inventory.  
-**Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+**Tech:** FastAPI · PostgreSQL · JWT · SQLAlchemy ORM
 
 ---
 
-### 🔹 Buymore ERP Platform (Jun 2025 – Dec 2025)
+### 🔹 Buymore ERP Platform
 Serverless microservices for ERP modules with EventBridge automation.  
-**Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white) ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F00?logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+**Tech:** AWS Lambda · API Gateway · PostgreSQL · EventBridge
 
 ---
 
-### 🔹 Buymore Analytics ERP (Jan 2025 – Jun 2025)
+### 🔹 Buymore Analytics ERP
 Cloud‑based backend services for analytics and ERP workflows.  
-**Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F00?logo=amazonaws&logoColor=white)
+**Tech:** REST APIs · AWS Lambda · Serverless Architecture
 
 ---
 
-### 🔹 Food App & Restaurant Management System (Aug 2024 – Nov 2024)
+### 🔹 Food Application & Restaurant Management System
 Full backend CRUD APIs with Django REST Framework.  
-**Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-FF1709?logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+**Tech:** Django REST Framework · MySQL · CRUD APIs
 
 ---
 
